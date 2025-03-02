@@ -1,6 +1,6 @@
 ---
 # Display name
-title: תומר יהושע-סנדק
+title: Tomer Yehoshua-Sandak
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:tomerys@u.northwestern.edu'
+    url: 'tomerys@u.northwestern.edu'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tomer-yehoshua-sandak

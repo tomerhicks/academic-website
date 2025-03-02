@@ -25,13 +25,13 @@ role: Economics PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Northwestern University
-    url: https://openai.com/](https://economics.northwestern.edu
+    url: https://economics.northwestern.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:tomerys@u.northwestern.edu'
+    url: mailto:tomerys@u.northwestern.edu
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tomer-yehoshua-sandak
